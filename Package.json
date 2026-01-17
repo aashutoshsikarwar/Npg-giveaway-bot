@@ -1,0 +1,13 @@
+{
+  "name": "npg-giveaway-bot",
+  "version": "1.0.0",
+  "description": "Custom Discord Giveaway Bot",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
